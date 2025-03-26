@@ -1,0 +1,14 @@
+C:\Users\tonym\source\repos\GestionFilms\GestionFilms\bin\Debug\net8.0\GestionFilms.exe
+C:\Users\tonym\source\repos\GestionFilms\GestionFilms\bin\Debug\net8.0\GestionFilms.deps.json
+C:\Users\tonym\source\repos\GestionFilms\GestionFilms\bin\Debug\net8.0\GestionFilms.runtimeconfig.json
+C:\Users\tonym\source\repos\GestionFilms\GestionFilms\bin\Debug\net8.0\GestionFilms.dll
+C:\Users\tonym\source\repos\GestionFilms\GestionFilms\bin\Debug\net8.0\GestionFilms.pdb
+C:\Users\tonym\source\repos\GestionFilms\GestionFilms\obj\Debug\net8.0\GestionFilms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonym\source\repos\GestionFilms\GestionFilms\obj\Debug\net8.0\GestionFilms.AssemblyInfoInputs.cache
+C:\Users\tonym\source\repos\GestionFilms\GestionFilms\obj\Debug\net8.0\GestionFilms.AssemblyInfo.cs
+C:\Users\tonym\source\repos\GestionFilms\GestionFilms\obj\Debug\net8.0\GestionFilms.csproj.CoreCompileInputs.cache
+C:\Users\tonym\source\repos\GestionFilms\GestionFilms\obj\Debug\net8.0\GestionFilms.dll
+C:\Users\tonym\source\repos\GestionFilms\GestionFilms\obj\Debug\net8.0\refint\GestionFilms.dll
+C:\Users\tonym\source\repos\GestionFilms\GestionFilms\obj\Debug\net8.0\GestionFilms.pdb
+C:\Users\tonym\source\repos\GestionFilms\GestionFilms\obj\Debug\net8.0\GestionFilms.genruntimeconfig.cache
+C:\Users\tonym\source\repos\GestionFilms\GestionFilms\obj\Debug\net8.0\ref\GestionFilms.dll
